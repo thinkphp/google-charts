@@ -3,3 +3,7 @@
 * https://developers.google.com/chart/interactive/docs
 ### Demo:
 * https://thinkphp.github.io/google-charts/
+* https://thinkphp.github.io/google-charts/chart-pie2d.html
+* https://thinkphp.github.io/google-charts/chart-line.html
+* https://thinkphp.github.io/google-charts/chart-plots.html
+* https://thinkphp.github.io/google-charts/chart-bars.html
